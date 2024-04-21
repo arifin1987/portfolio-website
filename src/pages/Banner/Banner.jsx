@@ -34,11 +34,12 @@ const Banner = () => {
           </div>
           <h3 className="py-6">
             I have vast experience in TypeScript, NodeJS, ExpressJS, ReactJS,
-            Redux Tool Kit, MongoDB, Firebase, Bootstrap, Tailwind css etc.
+            Next.js Redux Tool Kit, MongoDB, Firebase, Bootstrap, Tailwind css,
+            Ant Design, Framer Motion etc.
           </h3>
           <button className="btn btn-primary">
             {" "}
-            <a href="Shohidul Arifin resume.pdf" download>
+            <a href="Shohidul Arifin_MERN-Stack_CV.pdf" download>
               Download Resume <FaDownload></FaDownload>
             </a>
           </button>

@@ -4,7 +4,7 @@ import {
   BiLogoFirebase,
   BiLogoMongodb,
 } from "react-icons/bi";
-import { SiExpress, SiRedux, SiTypescript } from "react-icons/si";
+import { SiExpress, SiNextdotjs, SiRedux, SiTypescript } from "react-icons/si";
 import { Flip } from "react-awesome-reveal";
 
 const Skills = () => {
@@ -25,6 +25,12 @@ const Skills = () => {
           <h1 className="text-2xl text-cyan-500">
             {" "}
             <FaReact></FaReact>React.js
+          </h1>
+        </div>
+        <div>
+          <h1 className="text-2xl text-cyan-500">
+            {" "}
+            <SiNextdotjs></SiNextdotjs>Next.js
           </h1>
         </div>
         <div>
